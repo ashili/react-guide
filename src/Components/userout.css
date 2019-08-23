@@ -1,0 +1,9 @@
+.usrOutStyle {
+  width: 97%;
+  padding: 16px;
+  color: #115e31;
+  border: 3px solid black;
+  background-color: aliceblue;
+  box-shadow: 3px gray;
+  margin: 2px;
+}
